@@ -5,9 +5,9 @@
 3. Install [MOSES](https://github.com/molecularsets/moses) from the repository
 
 ## Running Procedure
-1. Running ``candi_molFingerprintsSOM.ipynb`` to train the SOM model for the Zinc and the dedicated dataset.
-2. Running ``candi_pretrain.py`` to get the trained VAE model.
-3. Running ``candi_sampling.py`` to generate candidate molecules from the trained model.
+1. Run ``candi_molFingerprintsSOM.ipynb`` to train the SOM model for the Zinc and the dedicated dataset.
+2. Run ``candi_pretrain.py`` to get the trained VAE model.
+3. Run ``candi_sampling.py`` to generate candidate molecules from the trained model.
 
 
 ## Datasets:
