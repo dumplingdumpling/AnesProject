@@ -12,4 +12,4 @@
 
 ## Datasets:
 1. [Zinc](https://media.githubusercontent.com/media/molecularsets/moses/master/data/dataset_v1.csv) dataset
-2. Select a dataset in a specific area.
+2. Select a dataset in a targeted area.
